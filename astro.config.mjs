@@ -5,10 +5,10 @@ export default defineConfig({
     defaultLocale: 'en',
     locales: ['en', 'de', 'ua'],
     routing: {
-      prefixDefaultLocale: false  // don't add a prefix for the default locale.
+      prefixDefaultLocale: false       // don't add a prefix for the default locale.
     }
   },
   
-  site: 'https://zghoba.space',   // the url address of the site.
-  base: '/',                      // the site location in the repo. 
+  site: 'https://links.zghoba.space',  // the url address of the site.
+  base: '/',                           // the site location in the repo. 
 });
