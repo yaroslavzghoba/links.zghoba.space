@@ -7,6 +7,8 @@
 
 [`links.zghoba.space`](https://links.zghoba.space) is Yaroslav Zghoba’s personal link hub for presenting a portfolio, social profiles, contact email, and GitHub in one focused interface. It is designed as a fast, multilingual landing page for visitors who want to find the right channel quickly.
 
+![Screenshot](public/screenshot.jpg)
+
 This repository contains the Astro website, its localized page content, the shared page template, styling, and the small client-side interaction used by the link buttons.
 
 ## 🚀 Project Overview
