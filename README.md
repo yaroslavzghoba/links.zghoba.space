@@ -42,7 +42,10 @@ This repository contains the Astro website, its localized page content, the shar
 - Node.js `>=22.22.0`
 - npm
 
-### Development
+### Running
+
+<details>
+  <summary>Option 1: Running the development version</summary>
 
 Install the dependencies from the repository root:
 
@@ -64,7 +67,10 @@ astro dev --background
 
 The background server can be managed with `astro dev status`, `astro dev logs`, and `astro dev stop`.
 
-### Production build
+</details>
+
+<details>
+  <summary>Option 2: Running the production version</summary>
 
 Create the production output and preview it locally:
 
@@ -74,6 +80,8 @@ npm run preview
 ```
 
 The build is written to `dist/` and the preview server is typically available at [http://localhost:4321](http://localhost:4321).
+
+</details>
 
 ## 🔧 Available Commands
 
