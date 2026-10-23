@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Site-Up-gray?style=flat&labelColor=202526&color=e85d04)](https://links.zghoba.space)
 [![Astro](https://img.shields.io/badge/Astro-7.4.0-gray?style=flat&logo=Astro&logoColor=fff8e8&labelColor=202526&color=ffba08)](https://astro.build/)
 [![Node.js](https://img.shields.io/badge/NodeJS-%3E%3D22.22.0-gray?style=flat&logo=nodedotjs&logoColor=fff8e8&labelColor=202526&color=556b2f)](https://nodejs.org/)
-[![Languages](https://img.shields.io/badge/Locales-en%20%7C%20de%20%7C%20ua-gray?style=flat&logo=nodedotjs&logoColor=fff8e8&labelColor=202526&color=2f7770)](https://links.zghoba.space/)
+[![Languages](https://img.shields.io/badge/Locales-en%20%7C%20de%20%7C%20ua-gray?style=flat&logoColor=fff8e8&labelColor=202526&color=2f7770)](https://links.zghoba.space/)
 
 [`links.zghoba.space`](https://links.zghoba.space) is Yaroslav Zghoba’s personal link hub for presenting a portfolio, social profiles, contact email, and GitHub in one focused interface. It is designed as a fast, multilingual landing page for visitors who want to find the right channel quickly.
 
